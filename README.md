@@ -40,3 +40,51 @@ const double  pi=3;
     cout<<s;;
     cout<<P;
 }
+
+#include <iostream>
+using namespace std;
+int main(){
+    double f;
+    cin>>s;
+    s=(5/9)*(f-32);
+     cout<<"s=";
+    cout<<s;
+}
+
+
+#include <iostream>
+using namespace std;
+int main(){
+    double a,b,c;
+    cin>>a;
+    cin>>b;
+    cin>>c;
+    cout<<(a+b+c)/3;
+}
+
+
+7 bosdur
+
+
+#include <iostream>
+using namespace std;
+int main(){
+    double a,s,p;
+     cin>>a;
+    s=a*a;
+    p=a*4;
+    cout<<s;
+    cout<<p;
+}
+
+
+#include <iostream>
+using namespace std;
+int main(){
+    int san,dəq,saat;
+    cin>>san;
+    dəq=san/60;
+    saat=san/3600;
+    cout<<saat;
+    cout<<dəq;
+  
