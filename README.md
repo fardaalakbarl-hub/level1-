@@ -8,7 +8,7 @@ int main(){
   cout<<c;
 
 
-  #include <iostream>
+#include <iostream>
 using namespace std;
 int main(){
   int a,b;
@@ -20,7 +20,6 @@ int main(){
   cout<<a/b<<endl;
 }
 
-
 #include <iostream>
 using namespace std;
 int main(){
@@ -30,3 +29,14 @@ int main(){
     cout<<pow(a,3);
 }
 
+#include <iostream>
+using namespace std;
+int main(){
+const double  pi=3;
+    double r,s,p;
+    cin>>r;
+    s=Pi*r*r
+    p=2*Pi*r
+    cout<<s;;
+    cout<<P;
+}
