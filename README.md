@@ -20,3 +20,13 @@ int main(){
   cout<<a/b<<endl;
 }
 
+
+#include <iostream>
+using namespace std;
+int main(){
+    double a;
+    cin>>a;
+    cout<<pow(a,2);
+    cout<<pow(a,3);
+}
+
